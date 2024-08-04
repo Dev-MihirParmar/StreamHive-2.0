@@ -1,0 +1,11 @@
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/model/User.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/controller/AuthController.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/repository/UserRepository.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/security/JwtTokenProvider.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/payload/SignUpRequest.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/service/VideoService.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/config/SecurityConfig.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/StreamHiveApplication.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/security/JwtAuthenticationFilter.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/controller/VideoController.java
+/workspaces/StreamHive-2.0/streamhive-backend/src/main/java/com/streamhive/payload/LoginRequest.java

@@ -1,0 +1,11 @@
+com/streamhive/controller/AuthController.class
+com/streamhive/StreamHiveApplication.class
+com/streamhive/repository/UserRepository.class
+com/streamhive/service/VideoService.class
+com/streamhive/payload/SignUpRequest.class
+com/streamhive/security/JwtTokenProvider.class
+com/streamhive/model/User.class
+com/streamhive/payload/LoginRequest.class
+com/streamhive/config/SecurityConfig.class
+com/streamhive/controller/VideoController.class
+com/streamhive/security/JwtAuthenticationFilter.class
